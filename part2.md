@@ -1,4 +1,4 @@
-### Exclude with .dockerignore
+### การไม่สนใจไฟล์ด้วย .dockerignore
 
 To exclude files not relevant to the build (without restructuring your source
 repository) use a `.dockerignore` file. This file supports exclusion patterns
